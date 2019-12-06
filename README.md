@@ -1,2 +1,2 @@
 # ruby-demo
-for ruby learn
+some simple code to record my learn traces of ruby!!! 😊
